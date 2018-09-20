@@ -22,6 +22,10 @@ src
     - App.js //main react component
     - AppStyles.js //Simple styles for App component using styled-components
 ```
+### run the app
+```
+- npm run start
+```
 
 ### Working with Styled Components
 - more later    
