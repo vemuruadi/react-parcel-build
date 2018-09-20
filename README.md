@@ -1,10 +1,12 @@
-# React App with ParcelJs for building and Styled-Components for styling
+## React App with ParcelJs for building and Styled-Components for styling
 
-## Setup Structure
+### Repo Setup
 - create a folder called 'react-parcel-build'
+```
 - npm init -y for default package.json file
 - npm i -S react react-dom styled-components //as dependencies
 - npm i -D parcel-bundler //as dev dependency
+````
 
 - in package.json, add the below inside "scripts": {} to run react app
     "start": "parcel public/index.html --open",
@@ -20,5 +22,5 @@ src
     - AppStyles.js //Simple styles for App component using styled-components
 ```
 
-## Working with Styled Components
+### Working with Styled Components
 - more later    
