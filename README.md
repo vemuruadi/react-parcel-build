@@ -1,7 +1,8 @@
 ## React App with ParcelJs for building and Styled-Components for styling
 
 ### Repo Setup
-- create a folder called 'react-parcel-build'
+- Create a folder called 'react-parcel-build'
+- Install dependencies 
 ```
 - npm init -y for default package.json file
 - npm i -S react react-dom styled-components //as dependencies
